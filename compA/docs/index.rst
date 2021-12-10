@@ -6,9 +6,13 @@
 Welcome to Component A's documentation!
 =======================================
 
+This is A component
+
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
+
+   file_one
 
 
 
